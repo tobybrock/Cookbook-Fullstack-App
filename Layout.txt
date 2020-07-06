@@ -1,0 +1,14 @@
+Backend:
+User login & logout with encrypted hash key
+ability to save recipes
+
+Frontend:
+Search for any recipe
+Checkboxes with ingredients
+Pass ticked checkboxes through api Search
+Display recipes based off available ingredients
+Dropdown recipe instructions when clicked on
+collapse recipe instructions when clicked on
+Choose how many recipes you want to appear (watch for api key usage)
+sort by nutrition option
+
